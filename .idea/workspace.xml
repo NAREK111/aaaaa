@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="075c2223-853b-4077-ba29-ffc20e9dc204" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="uplode_gallerey.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uplode_gallerey.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="70" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/register.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="303" column="1" lean-forward="false" selection-start-line="303" selection-start-column="1" selection-end-line="303" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/navbar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google/google.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="28" lean-forward="false" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaaaaaaa.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google/aaaaaaaa.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3213">
+              <caret line="189" column="54" lean-forward="false" selection-start-line="189" selection-start-column="54" selection-end-line="189" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gogle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google/gogle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xml.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/google/xml.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uplode.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google/uplode.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>google.maps</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/layouts/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/model/registerprocess.php" />
+        <option value="$PROJECT_DIR$/layouts/header.php" />
+        <option value="$PROJECT_DIR$/view/register.php" />
+        <option value="$PROJECT_DIR$/view/login.php" />
+        <option value="$PROJECT_DIR$/model/AAAAAA.php" />
+        <option value="$PROJECT_DIR$/view/profillogin.php" />
+        <option value="$PROJECT_DIR$/model/profillogin.php" />
+        <option value="$PROJECT_DIR$/view/AAAAAA.php" />
+        <option value="$PROJECT_DIR$/model/logout.php" />
+        <option value="$PROJECT_DIR$/uplode/uplode.php" />
+        <option value="$PROJECT_DIR$/view/profil.php" />
+        <option value="$PROJECT_DIR$/uplodes/uplode.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/model/register.json" />
+        <option value="$PROJECT_DIR$/profillogin.php" />
+        <option value="$PROJECT_DIR$/registerprocess.php" />
+        <option value="$PROJECT_DIR$/function/function.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/uplode.php" />
+        <option value="$PROJECT_DIR$/delete_gallery.php" />
+        <option value="$PROJECT_DIR$/update_avatar.php" />
+        <option value="$PROJECT_DIR$/uplode_gallerey.php" />
+        <option value="$PROJECT_DIR$/gallery.php" />
+        <option value="$PROJECT_DIR$/google_map.php" />
+        <option value="$PROJECT_DIR$/GOOGLE.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
+        <option value="$PROJECT_DIR$/profil.php" />
+        <option value="$PROJECT_DIR$/google/uplode.php" />
+        <option value="$PROJECT_DIR$/google/aaaaaaaa.php" />
+        <option value="$PROJECT_DIR$/layouts/navbar.php" />
+        <option value="$PROJECT_DIR$/google/google.php" />
+        <option value="$PROJECT_DIR$/google/gogle.php" />
+        <option value="$PROJECT_DIR$/google/xml.php" />
+        <option value="$PROJECT_DIR$/register.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="325" />
+    <option name="y" value="140" />
+    <option name="width" value="722" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="arajadranq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arajadranq" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="arajadranq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arajadranq" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="google" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="arajadranq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arajadranq" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aaaaaaaaaaa.dev" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\OpenServer\domains\arajadranq\google" />
+      <recent name="A:\OpenServer\domains\arajadranq" />
+      <recent name="A:\OpenServer\domains\arajadranq\uplodes\img_golereya" />
+      <recent name="A:\OpenServer\domains\arajadranq\view" />
+      <recent name="A:\OpenServer\domains\arajadranq\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.arajadranq">
+    <configuration name="arajadranq" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.arajadranq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="075c2223-853b-4077-ba29-ffc20e9dc204" name="Default" comment="" />
+      <created>1508532546988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508532546988</updated>
+      <workItem from="1508532548413" duration="209000" />
+      <workItem from="1508532800664" duration="1420000" />
+      <workItem from="1508534239643" duration="38000" />
+      <workItem from="1508534649381" duration="42000" />
+      <workItem from="1508534746458" duration="1678000" />
+      <workItem from="1508536454390" duration="1878000" />
+      <workItem from="1508541058749" duration="1966000" />
+      <workItem from="1508543060437" duration="737000" />
+      <workItem from="1508572091492" duration="1715000" />
+      <workItem from="1508573841446" duration="1144000" />
+      <workItem from="1508575664287" duration="1561000" />
+      <workItem from="1508577536821" duration="1528000" />
+      <workItem from="1508590517803" duration="1675000" />
+      <workItem from="1508592354969" duration="1778000" />
+      <workItem from="1508594158828" duration="1787000" />
+      <workItem from="1508595977138" duration="1721000" />
+      <workItem from="1508597792034" duration="872000" />
+      <workItem from="1508599619261" duration="1787000" />
+      <workItem from="1508601433225" duration="1293000" />
+      <workItem from="1508602843326" duration="376000" />
+      <workItem from="1508603241977" duration="1801000" />
+      <workItem from="1508605133849" duration="1785000" />
+      <workItem from="1508606946444" duration="760000" />
+      <workItem from="1508619387929" duration="1784000" />
+      <workItem from="1508622502090" duration="1638000" />
+      <workItem from="1508656574817" duration="282000" />
+      <workItem from="1508656996060" duration="760000" />
+      <workItem from="1508837995858" duration="686000" />
+      <workItem from="1508840788208" duration="1791000" />
+      <workItem from="1508842688031" duration="530000" />
+      <workItem from="1508918179051" duration="1789000" />
+      <workItem from="1508924874729" duration="2083000" />
+      <workItem from="1508927062350" duration="450000" />
+      <workItem from="1508927556370" duration="1292000" />
+      <workItem from="1508950238229" duration="901000" />
+      <workItem from="1508951218312" duration="822000" />
+      <workItem from="1508952096290" duration="1507000" />
+      <workItem from="1508954079886" duration="1165000" />
+      <workItem from="1508958922728" duration="1785000" />
+      <workItem from="1508960917543" duration="1201000" />
+      <workItem from="1509001453388" duration="1767000" />
+      <workItem from="1509003248574" duration="1425000" />
+      <workItem from="1509005577609" duration="1802000" />
+      <workItem from="1509007405023" duration="466000" />
+      <workItem from="1509008057785" duration="1142000" />
+      <workItem from="1509009317740" duration="1784000" />
+      <workItem from="1509011128287" duration="1191000" />
+      <workItem from="1509017490599" duration="1173000" />
+      <workItem from="1509093885212" duration="1743000" />
+      <workItem from="1509096288634" duration="601000" />
+      <workItem from="1509113052758" duration="1203000" />
+      <workItem from="1509114811642" duration="1791000" />
+      <workItem from="1509116633029" duration="1783000" />
+      <workItem from="1509118445981" duration="1990000" />
+      <workItem from="1509122623069" duration="49000" />
+      <workItem from="1509122837401" duration="1114000" />
+      <workItem from="1509123997750" duration="410000" />
+      <workItem from="1509125801164" duration="211000" />
+      <workItem from="1509126148082" duration="136000" />
+      <workItem from="1509126528813" duration="310000" />
+      <workItem from="1509126876544" duration="710000" />
+      <workItem from="1509127612757" duration="1782000" />
+      <workItem from="1509129423279" duration="1711000" />
+      <workItem from="1509135965921" duration="1748000" />
+      <workItem from="1509137761892" duration="1542000" />
+      <workItem from="1509184300257" duration="1609000" />
+      <workItem from="1509186048105" duration="1563000" />
+      <workItem from="1509187868014" duration="2130000" />
+      <workItem from="1509194242966" duration="604000" />
+      <workItem from="1509196387104" duration="1760000" />
+      <workItem from="1509198204598" duration="1785000" />
+      <workItem from="1509200019441" duration="1489000" />
+      <workItem from="1509217156056" duration="1443000" />
+      <workItem from="1509218708817" duration="170000" />
+      <workItem from="1509218930733" duration="1655000" />
+      <workItem from="1509221060002" duration="371000" />
+      <workItem from="1509221493936" duration="1092000" />
+      <workItem from="1509266482696" duration="1735000" />
+      <workItem from="1509268295390" duration="1778000" />
+      <workItem from="1509270135792" duration="656000" />
+      <workItem from="1509273292500" duration="1281000" />
+      <workItem from="1509277221672" duration="1189000" />
+      <workItem from="1509278954802" duration="158000" />
+      <workItem from="1509279228659" duration="1689000" />
+      <workItem from="1509281053646" duration="1630000" />
+      <workItem from="1509282908460" duration="1563000" />
+      <workItem from="1509309226532" duration="1488000" />
+      <workItem from="1509311594060" duration="1336000" />
+      <workItem from="1509313521402" duration="713000" />
+      <workItem from="1509369415508" duration="1464000" />
+      <workItem from="1509371625765" duration="1366000" />
+      <workItem from="1509375837951" duration="1604000" />
+      <workItem from="1509378325261" duration="20000" />
+      <workItem from="1509378365675" duration="737000" />
+      <workItem from="1509380043831" duration="1784000" />
+      <workItem from="1509382134545" duration="2368000" />
+      <workItem from="1509390718973" duration="1197000" />
+      <workItem from="1509392946193" duration="768000" />
+      <workItem from="1509437308098" duration="1706000" />
+      <workItem from="1509439045181" duration="1813000" />
+      <workItem from="1509441131197" duration="1774000" />
+      <workItem from="1509443062125" duration="1517000" />
+      <workItem from="1509447687061" duration="1134000" />
+      <workItem from="1509475015377" duration="1487000" />
+      <workItem from="1509476973938" duration="648000" />
+      <workItem from="1509561933184" duration="1454000" />
+      <workItem from="1509564847434" duration="1777000" />
+      <workItem from="1509566656132" duration="2058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14714494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14714494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layouts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/12548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f3437719c961.jpg" />
+    <entry file="file://$PROJECT_DIR$/model/register.json" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="1058" column="9" lean-forward="false" selection-start-line="1058" selection-start-column="9" selection-end-line="1058" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f374c0d5e3612548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/profillogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f37703b050f1.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f3791a95e391.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f379d512f8012548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f37967ec8b41.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f376f2c5e991.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f378a34776912548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f379ecd0a12maxresdefault.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f37f60722ca1.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f39ab466ab112548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f39870950d81.jpg" />
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registerprocess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f59154a1b21155237790-25a0ac7f-c31a-45d0-934c-9c4ae0360591.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f598f9228e8Vladimir_Putin_-_2006.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f5990dda81777642_0.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f599a959ecfBqZ3V9oCYAAqOq0.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f37a368bebd12548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f37ab1c40931.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f59a8e72dc4anonymous-mask-widescreen-wallpaper.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f48dcb8bbf121362868_284838585331374_716132465_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/img_golereya/59f464342111512548903_750912618378951_8577072416070941988_n.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplodes/gallery/59f5afbdc48deVladimir-Putin-258x300.jpg" />
+    <entry file="file://$PROJECT_DIR$/uplode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_avatar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google_map.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uplode_gallerey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="70" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google/uplode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google/aaaaaaaa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="189" column="54" lean-forward="false" selection-start-line="189" selection-start-column="54" selection-end-line="189" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google/google.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="28" lean-forward="false" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google/gogle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="303" column="1" lean-forward="false" selection-start-line="303" selection-start-column="1" selection-end-line="303" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google/xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
